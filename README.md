@@ -1,6 +1,6 @@
 # 🚗E-hailing Rides Analysis
 
-# 🚕 NCR Ride Bookings — SQL Analysis Project
+## NCR Ride Bookings — SQL Analysis Project
 
 > A comprehensive SQL-driven analysis of ride bookings from an e-hailing service, NCR Ride.  
 
@@ -99,6 +99,6 @@ The analysis is executed entirely within a relational database environment (SQL 
 
 **Sesethu M. Bango**  
 *Aspiring Data Analyst & Engineering Enthusiast*  
-📫 [Connect on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/sesethu-bango-197856380/))
+📫 [Connect on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/sesethu-bango-197856380/)
 
 ---
