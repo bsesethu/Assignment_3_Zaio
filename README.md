@@ -1,4 +1,4 @@
-# 🚗E-hailing Rides Analysis
+# 🚗E-hailing Ride Bookings Analysis
 
 ## NCR Ride Bookings — SQL Analysis Project
 
